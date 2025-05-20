@@ -1,0 +1,823 @@
+{
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": "¿Qué es Bitcoin?",
+      "correct_answer": "Una criptomoneda descentralizada",
+      "incorrect_answers": [
+        "Una empresa tecnológica",
+        "Un protocolo de mensajería",
+        "Un tipo de archivo digital"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": "¿Quién es el creador de Bitcoin?",
+      "correct_answer": "Satoshi Nakamoto",
+      "incorrect_answers": [
+        "Vitalik Buterin",
+        "Charlie Lee",
+        "Nick Szabo"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": "¿En qué año fue creado Bitcoin?",
+      "correct_answer": "2009",
+      "incorrect_answers": [
+        "2007",
+        "2008",
+        "2010"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": "¿Cuál es el límite máximo de bitcoins que existirán?",
+      "correct_answer": "21 millones",
+      "incorrect_answers": [
+        "100 millones",
+        "Sin límite",
+        "42 millones"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": "¿Qué tecnología utiliza Bitcoin para registrar transacciones?",
+      "correct_answer": "Blockchain",
+      "incorrect_answers": [
+        "Cloud computing",
+        "SQL Database",
+        "P2P Network"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": "¿Qué es la minería de Bitcoin?",
+      "correct_answer": "El proceso de verificar transacciones y crear nuevos bloques",
+      "incorrect_answers": [
+        "Buscar bitcoins físicos bajo tierra",
+        "Un método para crear nuevas criptomonedas",
+        "Una forma de invertir en Bitcoin"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": "¿Qué es un halving en Bitcoin?",
+      "correct_answer": "La reducción de la recompensa de minería a la mitad",
+      "incorrect_answers": [
+        "La división del precio del Bitcoin a la mitad",
+        "La división de un bitcoin en dos partes",
+        "La reducción de las tarifas de transacción"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": "¿Con qué frecuencia ocurre aproximadamente un halving?",
+      "correct_answer": "Cada 4 años",
+      "incorrect_answers": [
+        "Cada año",
+        "Cada 2 años",
+        "Cada 10 años"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": "¿Qué es una clave privada en Bitcoin?",
+      "correct_answer": "Un código que permite acceder y controlar bitcoins",
+      "incorrect_answers": [
+        "Una contraseña para acceder a un exchange",
+        "Un tipo de billetera física",
+        "Un método de encriptación"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Cuál es la forma más segura de almacenar grandes cantidades de Bitcoin?",
+      "correct_answer": "En un wallet hardware (cold storage)",
+      "incorrect_answers": [
+        "En un exchange online",
+        "En una aplicación móvil",
+        "En papel impreso"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Cuál fue el primer evento conocido como \"Bitcoin Pizza Day\"?",
+      "correct_answer": "La compra de dos pizzas con 10,000 bitcoins",
+      "incorrect_answers": [
+        "El primer cajero automático de Bitcoin",
+        "El primer conference sobre Bitcoin",
+        "El primer exchange de Bitcoin"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿En qué fecha se celebra el Bitcoin Pizza Day?",
+      "correct_answer": "22 de mayo",
+      "incorrect_answers": [
+        "3 de enero",
+        "31 de octubre",
+        "1 de abril"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Cuántos bitcoins se pagaron por las dos pizzas en el Bitcoin Pizza Day?",
+      "correct_answer": "10,000 bitcoins",
+      "incorrect_answers": [
+        "1,000 bitcoins",
+        "5,000 bitcoins",
+        "20,000 bitcoins"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Cuánto tiempo toma típicamente confirmar una transacción de Bitcoin?",
+      "correct_answer": "10-60 minutos",
+      "incorrect_answers": [
+        "Segundos",
+        "1-2 horas",
+        "24 horas"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Qué es Lightning Network?",
+      "correct_answer": "Una solución de escalabilidad para Bitcoin",
+      "incorrect_answers": [
+        "Un fork de Bitcoin",
+        "Una nueva criptomoneda",
+        "Un tipo de wallet"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " Las transacciones de Bitcoin son:",
+      "correct_answer": "Pseudónimas",
+      "incorrect_answers": [
+        "Anonimas",
+        "Publicas",
+        "Solo visibles para el remitente y destinatario"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Aproximadamente cada cuánto tiempo se mina un bloque de Bitcoin?",
+      "correct_answer": "10 minutos",
+      "incorrect_answers": [
+        "1 minuto",
+        "5 minutos",
+        "30 minutos"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Qué es la dificultad en la minería de Bitcoin?",
+      "correct_answer": "La medida que ajusta qué tan difícil es resolver el puzzle matemático",
+      "incorrect_answers": [
+        "El costo de electricidad para minar",
+        "El número de mineros en la red",
+        "El tipo de hardware necesario"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Qué es la capitalización de mercado de Bitcoin?",
+      "correct_answer": "El precio total de todos los bitcoins en circulación",
+      "incorrect_answers": [
+        "El precio por bitcoin",
+        "El dinero invertido en Bitcoin por día",
+        "El valor de las transacciones diarias"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Cuál fue aproximadamente el precio más alto de Bitcoin registrado hasta 2024?",
+      "correct_answer": "$69,000",
+      "incorrect_answers": [
+        "$29,000",
+        "$48,000",
+        "$85,000"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Qué país fue el primero en adoptar Bitcoin como moneda legal?",
+      "correct_answer": "El Salvador",
+      "incorrect_answers": [
+        "Japón",
+        "Suiza",
+        "Estados Unidos"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿En cuál de estos países Bitcoin está prohibido?",
+      "correct_answer": "China",
+      "incorrect_answers": [
+        "Estados Unidos",
+        "Japón",
+        "Alemania"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": "¿Qué es un UTXO en Bitcoin?",
+      "correct_answer": "Una salida de transacción no gastada",
+      "incorrect_answers": [
+        "Un tipo de wallet",
+        "Un protocolo de seguridad",
+        "Un método de minería"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Qué es el mempool?",
+      "correct_answer": "Las transacciones pendientes de confirmación",
+      "incorrect_answers": [
+        "El lugar donde se almacenan las claves privadas",
+        "El historial de todas las transacciones",
+        "Los bitcoins que están siendo minados"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Qué es Taproot?",
+      "correct_answer": "Una mejora de privacidad y escalabilidad de Bitcoin",
+      "incorrect_answers": [
+        "Un nuevo algoritmo de minería",
+        "Una criptomoneda derivada de Bitcoin",
+        "Un tipo de wallet hardware"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Qué significa \"HODL\" en el contexto de Bitcoin?",
+      "correct_answers": [
+        "Hold On for Dear Life (mantener a toda costa)",
+        "Un error de tipeo de \"hold\" que se volvió popular"
+      ],
+      "incorrect_answers": [
+        "Hold On for Dear Life (mantener a toda costa)",
+        "Un error de tipeo de \"hold\" que se volvió popular",
+        "High Order Digital Ledger"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Cuántas confirmaciones se consideran generalmente seguras para una transacción de Bitcoin?",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "1",
+        "3",
+        "10"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Qué es un address de Bitcoin?",
+      "correct_answer": "Un identificador alfanumérico para recibir bitcoins",
+      "incorrect_answers": [
+        "La ubicación física de un ATM de Bitcoin",
+        "El server donde se almacenan los bitcoins",
+        "El nombre del propietario de los bitcoins"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": "¿Qué es Ethereum?",
+      "correct_answer": "Una plataforma blockchain para contratos inteligentes",
+      "incorrect_answers": [
+        "Una criptomoneda",
+        "Un exchange de criptomonedas",
+        "Una wallet digital"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": "¿Quién es el co-fundador más conocido de Ethereum?",
+      "correct_answer": "Vitalik Buterin",
+      "incorrect_answers": [
+        "Satoshi Nakamoto",
+        "Charles Hoskinson",
+        "Gavin Wood"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": "¿En qué año fue lanzado Ethereum?",
+      "correct_answer": "2015",
+      "incorrect_answers": [
+        "2013",
+        "2014",
+        "2016"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": "¿Cuál es la criptomoneda nativa de Ethereum?",
+      "correct_answer": "ETH",
+      "incorrect_answers": [
+        "ETC",
+        "WETH",
+        "GAS"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": "¿Qué son los contratos inteligentes?",
+      "correct_answer": "Programas que se ejecutan automáticamente en la blockchain",
+      "incorrect_answers": [
+        "Contratos legales digitales",
+        "Acuerdos entre traders",
+        "Contratos de minería"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": "¿Qué lenguaje de programación se usa principalmente para desarrollar contratos inteligentes en Ethereum?",
+      "correct_answer": "Solidity",
+      "incorrect_answers": [
+        "JavaScript",
+        "Python",
+        "Rust"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": "¿Qué significa DApp?",
+      "correct_answer": "Decentralized Application",
+      "incorrect_answers": [
+        "Distributed Application",
+        "Digital Application",
+        "Dual Application"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": "¿Cuál es la Máquina Virtual de Ethereum llamada?",
+      "correct_answer": "EVM (Ethereum Virtual Machine)",
+      "incorrect_answers": [
+        "EMV",
+        "VME",
+        "ETHVM"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": "¿Qué es el \"gas\" en Ethereum?",
+      "correct_answer": "La unidad de medida del costo computacional",
+      "incorrect_answers": [
+        "Un tipo de criptomoneda",
+        "Una mejora de protocolo",
+        "Un tipo de transacción"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Qué determina el precio del gas en Ethereum?",
+      "correct_answer": "La oferta y demanda de espacio en los bloques",
+      "incorrect_answers": [
+        "El precio de ETH",
+        "El número de validadores",
+        "La hora del día"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Qué es el \"gas limit\"?",
+      "correct_answer": "La cantidad máxima de gas que estás dispuesto a pagar",
+      "incorrect_answers": [
+        "El precio máximo del gas",
+        "El límite diario de transacciones",
+        "La velocidad de procesamiento"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿De qué mecanismo de consenso cambió Ethereum en \"The Merge\"?",
+      "correct_answer": "Proof of Work a Proof of Stake",
+      "incorrect_answers": [
+        "Proof of Stake a Proof of Work",
+        "Proof of Authority a Proof of Stake",
+        "Proof of History a Proof of Work"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Cuándo ocurrió \"The Merge\" de Ethereum?",
+      "correct_answer": "Septiembre 2022",
+      "incorrect_answers": [
+        "Enero 2022",
+        "Diciembre 2022",
+        "Marzo 2023"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Cuánto ETH necesitas tener mínimo para ser un validador en Ethereum 2.0?",
+      "correct_answer": "32 ETH",
+      "incorrect_answers": [
+        "16 ETH",
+        "24 ETH",
+        "64 ETH"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Qué es el staking en Ethereum?",
+      "correct_answer": "Bloquear ETH para ayudar a asegurar la red y ganar recompensas",
+      "incorrect_answers": [
+        "Un tipo de trading",
+        "Un juego en línea",
+        "Una forma de minar"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Qué es el estándar ERC-20?",
+      "correct_answer": "Un estándar para tokens fungibles",
+      "incorrect_answers": [
+        "Un estándar para tokens no fungibles",
+        "Un protocolo de staking",
+        "Una mejora de Ethereum"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Qué es el estándar ERC-721?",
+      "correct_answer": "Tokens no fungibles (NFTs)",
+      "incorrect_answers": [
+        "Tokens fungibles",
+        "Contratos de staking",
+        "Protocolos DeFi"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Qué significa NFT?",
+      "correct_answer": "Non-Fungible Token",
+      "incorrect_answers": [
+        "New Financial Token",
+        "Network File Transfer",
+        "Next Future Token"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Qué significa DeFi?",
+      "correct_answer": "Decentralized Finance",
+      "incorrect_answers": [
+        "Digital Finance",
+        "Dual Finance",
+        "Dynamic Finance"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Cuál de estos NO es un protocolo DeFi famoso en Ethereum?",
+      "correct_answer": "Dogecoin",
+      "incorrect_answers": [
+        "Uniswap",
+        "Compound",
+        "Aave"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Qué es un AMM en DeFi?",
+      "correct_answer": "Automated Market Maker",
+      "incorrect_answers": [
+        "Automated Money Machine",
+        "Advanced Mining Method",
+        "Alternative Money Management"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Qué son los liquidity pools?",
+      "correct_answer": "Reservas de criptomonedas para facilitar el trading",
+      "incorrect_answers": [
+        "Piscinas donde los mineros enfrían sus equipos",
+        "Grupos de validadores",
+        "Fondos de inversión tradicionales"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Cuál fue el primer gran ataque que experimentó Ethereum?",
+      "correct_answer": "The DAO hack",
+      "incorrect_answers": [
+        "Mt. Gox hack",
+        "Parity wallet bug",
+        "Flash loan attack"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Qué resultó del DAO hack?",
+      "correct_answer": "Se creó Ethereum Classic",
+      "incorrect_answers": [
+        "Ethereum se cerró permanentemente",
+        "Vitalik Buterin renunció",
+        "Se cambió a Proof of Stake inmediatamente"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Qué es Ethereum Classic (ETC)?",
+      "correct_answer": "La blockchain original de Ethereum que no implementó el hard fork después del DAO hack",
+      "incorrect_answers": [
+        "Una versión actualizada de Ethereum",
+        "Un token ERC-20",
+        "Un protocolo DeFi"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Cuál de estas es una solución Layer 2 para Ethereum?",
+      "correct_answer": "Polygon",
+      "incorrect_answers": [
+        "Bitcoin Lightning",
+        "Cardano",
+        "Solana"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Qué es un rollup?",
+      "correct_answer": "Una solución de escalabilidad que agrupa transacciones",
+      "incorrect_answers": [
+        "Una función de smart contract",
+        "Un tipo de wallet",
+        "Un protocolo de staking"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Cuáles son los dos tipos principales de rollups?",
+      "correct_answer": "Optimistic y ZK-rollups",
+      "incorrect_answers": [
+        "Fast y Slow rollups",
+        "Private y Public rollups",
+        "Ethereum y Bitcoin rollups"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Qué es MetaMask?",
+      "correct_answer": "Una wallet para browser y móvil",
+      "incorrect_answers": [
+        "Un exchange centralizado",
+        "Un protocolo DeFi",
+        "Una plataforma de minería"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Cuál es el explorador de bloques más popular de Ethereum?",
+      "correct_answer": "Etherscan",
+      "incorrect_answers": [
+        "Blockchain.info",
+        "Blockchair",
+        "Explorer.eth"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Qué es Infura?",
+      "correct_answer": "Un servicio de infraestructura que proporciona API para Ethereum",
+      "incorrect_answers": [
+        "Un exchange",
+        "Un token DeFi",
+        "Un lenguaje de programación"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Qué es OpenSea?",
+      "correct_answer": "Un marketplace de NFTs",
+      "incorrect_answers": [
+        "Un protocolo DeFi",
+        "Una wallet",
+        "Un validador de Ethereum"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Qué es EIP?",
+      "correct_answer": "Ethereum Improvement Proposal",
+      "incorrect_answers": [
+        "Ethereum Investment Plan",
+        "Ether Incentive Program",
+        "Ethereum Infrastructure Project"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Qué es Ethereum Name Service (ENS)?",
+      "correct_answer": "Un sistema que convierte direcciones complejas en nombres legibles",
+      "incorrect_answers": [
+        "Un protocolo de email",
+        "Un servicio de noticias",
+        "Un tipo de NFT"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Qué significa \"flippening\"?",
+      "correct_answer": "Cuando Ethereum supera a Bitcoin en capitalización de mercado",
+      "incorrect_answers": [
+        "Cuando el precio de ETH se duplica",
+        "Cuando Ethereum cambia de consenso",
+        "Cuando se lanza una nueva versión"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Qué es IPFS y cómo se relaciona con Ethereum?",
+      "correct_answer": "Internet Protocol File System; un sistema de almacenamiento descentralizado usado por DApps",
+      "incorrect_answers": [
+        "Initial Public File Sale; una forma de ICO",
+        "Integrated Payment File Service; un protocolo de pagos",
+        "Inter-Planetary Finance System; un protocolo DeFi"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Qué es un \"rug pull\" en el contexto DeFi de Ethereum?",
+      "correct_answer": "Cuando desarrolladores abandonan un proyecto con los fondos de los usuarios",
+      "incorrect_answers": [
+        "Una mejora técnica",
+        "Una función de smart contract",
+        "Un tipo de ataque de 51%"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Cuál es la emisión anual aproximada de ETH después de The Merge?",
+      "correct_answer": "0.5% anual",
+      "incorrect_answers": [
+        "Completamente deflacionaria",
+        "2% anual",
+        "4% anual"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Cuál es una ventaja principal de Ethereum sobre Bitcoin?",
+      "correct_answer": "Capacidad de ejecutar contratos inteligentes",
+      "incorrect_answers": [
+        "Mayor seguridad",
+        "Mayor descentralización",
+        "Menor consumo energético"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Criptomonedas",
+      "question": " ¿Aproximadamente cuántas transacciones por segundo puede procesar Ethereum actualmente?",
+      "correct_answer": "15 TPS",
+      "incorrect_answers": [
+        "7 TPS",
+        "50 TPS",
+        "100 TPS"
+      ]
+    }
+  ]
+}

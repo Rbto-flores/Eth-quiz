@@ -1,14 +1,21 @@
+body,
+.app,
+.startScreen {
+  background-image: url('./asset/bg.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  min-height: 100vh;
+}
+
 footer {
-  position:absolute;
-  left:0;
-  bottom:0;
-  right:0;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  right: 0;
 
 }
 
-.gameOverText {
-
-}
 
 h1 {
   font-family: 'Poppins', sans-serif;
@@ -27,7 +34,8 @@ h1 {
   margin: auto;
   background-color: #0e0124;
 }
-.big{
+
+.big {
   text-transform: uppercase;
   font-size: 50px;
   color: rgb(173, 106, 17);
@@ -35,14 +43,14 @@ h1 {
 
 }
 
-.copyRight{
-    position: absolute;
-    width: 100%;
-    color: #fff;
-    line-height: 40px;
-    font-size: 1rem;
-    text-align: center;
-    bottom:0;
+.copyRight {
+  position: absolute;
+  width: 100%;
+  color: #fff;
+  line-height: 40px;
+  font-size: 1rem;
+  text-align: center;
+  bottom: 0;
 }
 
 .startScreen {
@@ -50,7 +58,7 @@ h1 {
   height: 100vh;
   display: flex;
   color: white;
-  background-color: #020230;
+  background: none !important;
   padding: 2%;
   display: flex;
   flex-direction: column;
@@ -62,20 +70,22 @@ h1 {
 
 .app {
   display: flex;
-  background-color: #020230;
+  background: none !important;
   color: white;
 }
 
 .main {
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0), #19191f),
-    url("https://wallpaperaccess.com/full/2384073.jpg") center;
+  background: none !important;
   display: flex;
   flex-direction: column;
 }
 
 .pyramid {
-  background-color: #020230;
-
+  background: none !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-bottom: 20px;
 }
 
 .moneyList {
@@ -110,7 +120,7 @@ h1 {
   position: relative;
 }
 
-.used{
+.used {
   text-decoration: line-through;
   font-weight: 100;
   color: red;
@@ -228,7 +238,7 @@ h1 {
 }
 
 .answer.correct {
-  animation: correct 2s ease forwards;
+  animation: correct 5s ease forwards;
 }
 
 @keyframes correct {
@@ -252,7 +262,7 @@ h1 {
 }
 
 .answer.wrong {
-  animation: wrong 2s ease forwards;
+  animation: wrong 5s ease forwards;
 }
 
 @keyframes wrong {
@@ -323,4 +333,58 @@ h1 {
   cursor: pointer;
   font-weight: 600;
   text-align: center;
+}
+
+.lives-display {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin: 20px 0 10px 0;
+}
+
+.heart {
+  font-size: 24px;
+}
+
+.quit-button {
+  margin: 20px auto;
+  padding: 15px 30px;
+  background-color: #ff4444;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.3s;
+  width: 80%;
+  font-size: 1.2rem;
+}
+
+.quit-button:hover {
+  background-color: #cc0000;
+}
+
+.game-over {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  gap: 2rem;
+}
+
+.restart-button {
+  padding: 15px 30px;
+  font-size: 1.2rem;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.3s;
+}
+
+.restart-button:hover {
+  background-color: #45a049;
 }

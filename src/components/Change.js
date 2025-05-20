@@ -1,13 +1,14 @@
 const Change = ({ changeUsed, setChangeUsed, handleNextQuestion }) => {
 
-    const handelClick = () => {
+    const handleClick = () => {
         setChangeUsed(true);
+        // Change question but don't advance in pyramid
         handleNextQuestion(false);
     };
 
-    if(!changeUsed){
+    if (!changeUsed) {
         return <button
-        onClick={()=>handelClick()}>&#9851;</button>
+            onClick={() => handleClick()}>&#9851;</button>
     }
 
     return (<div className="used">&#9851;</div>);
